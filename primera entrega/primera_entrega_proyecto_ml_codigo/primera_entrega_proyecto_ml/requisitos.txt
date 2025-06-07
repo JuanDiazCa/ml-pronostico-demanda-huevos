@@ -1,3 +1,0 @@
-pandas
-openpyxl
-pip install -r requisitos.txt

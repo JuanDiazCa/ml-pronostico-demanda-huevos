@@ -35,7 +35,7 @@ Profesor: Francisco Jose Mercado Rivera, PhD
 ## Estructura del Proyecto
 
 ```
-ETL_PROYECTO/
+primera_entrega_proyecto_ml/
 ├── codigo/                     # Scripts de transformación y verificación
 │   ├── transformar.py
 │   └── verificar.py
