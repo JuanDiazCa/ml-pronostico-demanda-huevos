@@ -113,7 +113,8 @@ python "primera entrega/primera_entrega_proyecto_ml/principal.py"
 ```
 
 Las diapositivas correspondientes a la presentación de la primera entrega es el siguiente:
-[Presentación de primera entrega](primera_entrega/Presentacion_primera_entrega_proyecto_ML.pdf)
+
+- [Presentación de primera entrega](primera_entrega/Presentacion_primera_entrega_proyecto_ML.pdf)
 
 ---
 
